@@ -63,9 +63,13 @@ body {
     padding: 16px 0;
 }
 @media(max_width:800px)
-{.cabecalho{color#000897}
+{
+{.cabecalho{color:  red;}
+.escola{
+    background-image: linear-gradient(#ec2005,#00f82197);
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 0;
 
-}
-@media(max-width:800px)
-{escola{color:#ffffff}
-}
