@@ -64,7 +64,7 @@ body {
 }
 @media(max_width:720px)
 {
-.cabecalho{color:  red;
+.cabecalho{color: red;}
 .escola{
     background-image: linear-gradient(#ec2005,#00f82197);
     color:rgb(255, 255, 255);
@@ -80,4 +80,4 @@ body {
     }
     .estudante-imagem{
         width: 60px;}
-    }
+  }
